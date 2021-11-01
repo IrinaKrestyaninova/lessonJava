@@ -26,3 +26,4 @@ public class Cat {
         this.satiety = satiety;
     }
 }
+//Седьмой урок

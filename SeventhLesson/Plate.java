@@ -23,3 +23,4 @@ public class Plate {
         System.out.println("Всего в тарелке "+ this.food+" корма");
     }
 }
+//Седьмой урок
