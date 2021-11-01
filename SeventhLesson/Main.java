@@ -19,3 +19,4 @@ public class Main {
         myPlate.addFood(15);
     }
 }
+//Седьмой урок
